@@ -7,12 +7,12 @@
   {
     "location": "Francia",
     "name": "París",
-    "https://www.berlinsbi.com/uploads/sites/2/2023/07/paris-france-student-international-experience.jpg?w=1000&h=666&crop=1"
+    "url":"https://www.berlinsbi.com/uploads/sites/2/2023/07/paris-france-student-international-experience.jpg?w=1000&h=666&crop=1"
 },
     {
     "location": "Japón",
     "name": "Tokio",
-    "https://www.gotokyo.org/es/plan/tokyo-outline/images/main.jpg"
+    "url":"https://www.gotokyo.org/es/plan/tokyo-outline/images/main.jpg"
   },
   {
     "location": "Italia",
